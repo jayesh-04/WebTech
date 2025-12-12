@@ -102,6 +102,6 @@ Add your screenshots here:
 
 <h2>👨‍💻 Author</h2>
 
-Jayesh (Your Name Here)<br>
+Jayesh Jitendra Borase<br>
 Frontend Developer | Java | Web Enthusiast<br>
-🔗 GitHub: https://github.com/yourusername
+🔗 GitHub: https://github.com/jayesh-04
